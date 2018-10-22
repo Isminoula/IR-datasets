@@ -9,7 +9,9 @@ Search/Retrieval datasets with relevance judgments
 
 
 - [ ] [TREC 2017 Precision Medicine Track](http://www.trec-cds.org/2017.html) with [Relevance Judgments](https://trec.nist.gov/data/precmed2017.html)
+
 Participants of the track will be challenged with retrieving (1) biomedical articles, in the form of article abstracts (largely from MEDLINE/PubMed), addressing relevant treatments for the given patient, and (2) clinical trials (from ClinicalTrials.gov), addressing relevant clinical trials for which the patient is eligible. The first set of results represents the retrieval of existing knowledge in the scientific literature, while the second represents the potential for connecting patients with experimental treatments if existing treatments have been ineffective.
+
 **Scientific Abstracts**: A January 2017 snapshot of PubMed abstracts is used for the scientific abstracts. Additionally, abstracts obtained from AACR and ASCO proceedings are included in this category (these are more targeted toward cancer therapy, and likely to include precision medicine studies not in PubMed). These are only available as TXT files, and the file name (without extension) should be used as the ID in the submission files.
 
 - [ ] [TREC 2016 Clinical Decision Support Track](http://www.trec-cds.org/2016.html) and paper:[Overview of the TREC 2016 Clinical Decision Support Track](https://trec.nist.gov/pubs/trec25/papers/Overview-CL.pdf)
