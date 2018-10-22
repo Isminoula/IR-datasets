@@ -12,4 +12,4 @@ Search/Retrieval datasets with relevance judgments
 
 
 
-- [Open sourced system for High-Recall retrieval with a nice interface](https://hical.github.io)
+- [Open sourced system for High-Recall retrieval with a nice interface](https://hical.github.io) Commercial use - GNU General Public License v3.0
