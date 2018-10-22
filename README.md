@@ -15,6 +15,12 @@ Search/Retrieval datasets with relevance judgments
   **Scientific Abstracts**: A January 2017 snapshot of PubMed abstracts is used for the scientific abstracts. Additionally, abstracts obtained from AACR and ASCO proceedings are included in this category (these are more targeted toward cancer therapy, and likely to include precision medicine studies not in PubMed). These are only available as TXT files, and the file name (without extension) should be used as the ID in the submission files.
 
 - [ ] [TREC 2016 Clinical Decision Support Track](http://www.trec-cds.org/2016.html) and paper:[Overview of the TREC 2016 Clinical Decision Support Track](https://trec.nist.gov/pubs/trec25/papers/Overview-CL.pdf)
+
+  Participants of the track will be challenged with retrieving full-text biomedical articles that answer questions related to several types of clinical information needs for a given EHR note. Each topic will consist of a note and one of three generic clinical question types, such as "What is the patient's diagnosis?" Retrieved articles will be judged relevant if they provide information of the specified type that is pertinent to the given patient. The evaluation of submissions will follow standard TREC evaluation procedures.
+
+  **Documents**: The target document collection for the track is the Open Access Subset of PubMed Central (PMC). PMC is an online digital database of freely available full-text biomedical literature. Because documents are constantly being added to PMC, to ensure the consistency of the collection, for the 2016 task we obtained a snapshot of the open access subset on March 28, 2016 (Note this is an updated collection from last year's track), which contained a 1.25 million articles.
+
+
 - [ ] [TREC Novelty Tracks](https://trec.nist.gov/data/novelty.html): locate relevant AND new information within a set of documents relevant to a TREC topic. Necessary to purchase AQUAINT document collection.
 - [ ]  [TREC difficult queries track](https://trec.nist.gov/data/t14_robust.html) Necessary to purchase AQUAINT document collection.
 - [ ] [TREC-9 Filtering Track](https://trec.nist.gov/data/t9_filtering.html) The OHSUMED test collection is a set of 348,566 references from MEDLINE, the on-line medical information database, consisting of titles and/or abstracts from 270 medical journals over a five-year period (1987-1991). The available fields are title, abstract, MeSH indexing terms, author, source, and publication type.
