@@ -9,7 +9,9 @@ Search/Retrieval datasets with relevance judgments
 - [ ] [TREC-9 Filtering Track](https://trec.nist.gov/data/t9_filtering.html) The OHSUMED test collection is a set of 348,566 references from MEDLINE, the on-line medical information database, consisting of titles and/or abstracts from 270 medical journals over a five-year period (1987-1991). The available fields are title, abstract, MeSH indexing terms, author, source, and publication type.
 - [ ] [LETOR from Microsoft](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fbeijing%2Fprojects%2Fletor%2F) "a package of benchmark data sets for research on LEarning TO Rank. This data set contains standard features, relevance judgments, data partitioning, evaluation tools, and several baselines, for the OHSUMED data collection and the '.gov' data collection." 
 - [ ] [TREC Total Recall track](https://plg.uwaterloo.ca/~gvcormac/total-recall/) Lengthy data acquisition process. [Sample dataset](https://github.com/hical/sample-dataset)
+- [ ] [Reuters Corpus Volume I (RCV1)](http://scikit-learn.org/0.19/datasets/rcv1.html) and [TREC 2010 Legal Track](https://trec.nist.gov/data/legal10.html) used in [Active Search for High Recall: a Non-Stationary Extension of Thompson Sampling](https://arxiv.org/abs/1712.09550)
 
 
+# Software
 
 - [Open sourced system for High-Recall retrieval with a nice interface](https://hical.github.io) Commercial use - GNU General Public License v3.0
