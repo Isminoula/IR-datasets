@@ -15,3 +15,7 @@ Search/Retrieval datasets with relevance judgments
 # Software
 
 - [Open sourced system for High-Recall retrieval with a nice interface](https://hical.github.io) Commercial use - GNU General Public License v3.0
+
+# Other datasets 
+- [ ]  [Pubmed data](ftp://ftp.ncbi.nlm.nih.gov/pubmed/updatefiles/README.txt) and [Daily update files](ftp://ftp.ncbi.nlm.nih.gov/pubmed/updatefiles) sign as Guest
+- [ ] [arxiv data](https://arxiv.org/help/bulk_data)
