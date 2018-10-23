@@ -25,8 +25,12 @@ Search/Retrieval datasets with relevance judgments
 - [ ]  [TREC difficult queries track](https://trec.nist.gov/data/t14_robust.html) Necessary to purchase **AQUAINT** document collection.
 - [ ] [TREC-9 Filtering Track](https://trec.nist.gov/data/t9_filtering.html) The **OHSUMED** test collection is a set of 348,566 references from **MEDLINE**, the on-line medical information database, consisting of **titles and/or abstracts** from 270 medical journals over a five-year period (1987-1991). The available fields are title, abstract, MeSH indexing terms, author, source, and publication type.
 - [ ] [LETOR from Microsoft](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fbeijing%2Fprojects%2Fletor%2F) "a package of benchmark data sets for research on LEarning TO Rank. This data set contains standard features, relevance judgments, data partitioning, evaluation tools, and several baselines, for the **OHSUMED** data collection and the **'.gov'** data collection." 
-- [ ] [TREC Total Recall track 2015,2016](https://plg.uwaterloo.ca/~gvcormac/total-recall/) Lengthy data acquisition process. [Sample dataset](https://github.com/hical/sample-dataset) Participants in the Total Recall Track will investigate tools and strategies to find, given a topic and a collection of documents, with as little human effort as possible, as nearly all of the relevant documents as possible.
-Have to sign and email forms to *possibly* get the data.
+- [ ] [TREC Total Recall track 2015,2016](https://plg.uwaterloo.ca/~gvcormac/total-recall/) Lengthy data acquisition process. [Sample dataset](https://github.com/hical/sample-dataset) Have to sign and email forms to *possibly* get the data or access the Web server
+
+  Participants in the Total Recall Track will investigate tools and strategies to find, given a topic and a collection of documents, with as little human effort as possible, as nearly all of the relevant documents as possible.
+
+  Given a simple topic description – like those typically used for ad-hoc and Web search – identify the documents in a corpus, one at a time, such that, as nearly as possible, all relevant documents are identified before all non-relevant documents. Immediately after each document is identified, its ground- truth relevance or non-relevance is disclosed.
+
 - [ ] [Reuters Corpus Volume I (RCV1)](http://scikit-learn.org/0.19/datasets/rcv1.html) and [TREC 2010 Legal Track](https://trec.nist.gov/data/legal10.html) used in [Active Search for High Recall: a Non-Stationary Extension of Thompson Sampling](https://arxiv.org/abs/1712.09550)
 
 
